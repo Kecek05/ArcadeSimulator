@@ -247,10 +247,6 @@ This project is under active development. Current focus areas include:
 **Engine**: Unreal Engine 5.3
 **Repository**: [Kecek05/ArcadeSimulator](https://github.com/Kecek05/ArcadeSimulator)
 
-## License
-
-Please refer to the project's license file for licensing information.
-
 ---
 
 **Note**: This is an Unreal Engine project. Make sure you have Unreal Engine 5.3 installed before attempting to open the project.
